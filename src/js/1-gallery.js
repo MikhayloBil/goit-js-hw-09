@@ -1,0 +1,1 @@
+export const gallery = '1-gallery';
